@@ -4,8 +4,7 @@ void viewMenu()
 {
   cout << "1.Inches To Feet"<<"\n";
   cout << "2.Pound To Kilogram" << "\n";
-  cout << "_______3.exit______" << "\n";
-  cout << "Enter your choice= ";
+  cout << "Enter your choice (1 or 2)= ";
 }
 double inchestoFeet(double x)
 {
